@@ -59,8 +59,8 @@
 </head>
 <body>
   <div class="card">
-    <!-- Using <img> for avatar -->
-    <img src="avatar.jpeg" alt="Profile Avatar" class="avatar">
+    
+    <img src="profile.jpg" alt="Profile Avatar" class="avatar">
 
     <h2>Hilton Rico Jr. B. Manangat</h2>
     <div class="role">Master of None</div>
@@ -74,6 +74,7 @@
     <div class="btns">
       <a href="https://www.facebook.com/share/1BYXHWYnMM/" target="_blank">Facebook</a>
       <a href="https://www.instagram.com/jrh_jiro?igsh=eWFxem52ZG1uNGV1" target="_blank">Instagram</a>
+    
     </div>
   </div>
 </body>
